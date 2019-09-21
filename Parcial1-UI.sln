@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial1-UI.Tests", "Parcia
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{CC9660AC-4A75-414E-BBB8-8586BF50B9EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{D329DC26-179E-4D99-A02F-F65612E115D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CC9660AC-4A75-414E-BBB8-8586BF50B9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC9660AC-4A75-414E-BBB8-8586BF50B9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC9660AC-4A75-414E-BBB8-8586BF50B9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D329DC26-179E-4D99-A02F-F65612E115D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D329DC26-179E-4D99-A02F-F65612E115D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D329DC26-179E-4D99-A02F-F65612E115D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D329DC26-179E-4D99-A02F-F65612E115D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
