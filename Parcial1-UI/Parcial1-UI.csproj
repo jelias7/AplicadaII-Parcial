@@ -149,6 +149,7 @@
     <Compile Include="Registros\rParcial.aspx.designer.cs">
       <DependentUpon>rParcial.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Utilitarios\Enums.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
