@@ -150,6 +150,7 @@
       <DependentUpon>rParcial.aspx</DependentUpon>
     </Compile>
     <Compile Include="Utilitarios\Enums.cs" />
+    <Compile Include="Utilitarios\Utils.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
